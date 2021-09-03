@@ -1,0 +1,102 @@
+body{
+    background-color: rgb(26, 28, 29);
+    
+}
+form{
+    margin-top: 15%;
+    text-align: center;
+}
+h1{
+    font-size: 80px;
+    font-weight:500;
+}
+#head{
+    background-image: url("https://resize.indiatvnews.com/en/resize/newbucket/715_-/2021/08/yamuna-delhi-pti-1628402135.jpg");
+    color: rgb(17, 68, 235);
+    height: 10%;
+    font-size: 40px;
+    font-weight: 900;
+    margin-top: 40px;
+    font-family: 'Crimson Text', serif;
+    border-radius: 8px;
+    border: 4px solid whitesmoke;
+}
+.container{
+    color: rgb(253, 61, 61);
+    height: 10%;
+    font-size: 25px;
+    margin-top: 60px;
+    font-family: 'Abhaya Libre', serif;
+    
+    
+}
+.container>p{
+    color: rgb(226, 23, 23);
+    padding-top: 10%;
+}
+.container>div{
+    padding: 20px 0;
+}
+
+#click{
+    margin-top: 1%;
+    font-size: 25px;
+    color: white;
+    text-align: center;
+    font-family: 'Hind Siliguri', sans-serif;
+}
+
+img{
+    width:30%;
+    height: 300px;
+    float:left;
+    margin: 1.66%;
+    border-radius: 8px;
+    border: 5px solid cornsilk; 
+    margin-bottom: 10%;
+}
+
+.animae {
+    animation-duration: 3s;
+    animation-name: slidein;
+    overflow: hidden;
+  }
+  
+  @keyframes slidein {
+    from {
+      margin-left: 100%;
+      width: 100%;
+    }
+    to {
+      margin-left: 0%;
+      width: 100%;
+    }
+  }
+
+  #left{
+      margin-left: 0;
+      margin-right: 3.32%;
+  }
+  #right{
+      margin-right: 0;
+      margin-left: 3.32%;
+  }
+  #form{
+      background-color: tomato;
+      width: 15%;
+      text-align: center;
+      margin: auto;
+      padding-bottom: 23px ;
+      padding-top: 0px;
+      vertical-align: middle;
+      border-top:1px solid tomato;
+  }
+i{
+    margin-right: 10px;
+    color: #606060FF;
+}
+h3{
+    text-align: center;
+    margin-top: 4%;
+    color: aliceblue;
+}

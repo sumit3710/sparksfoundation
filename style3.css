@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(126, 124, 122);
+}
+h1{
+    background-color: rgb(35, 41, 40);
+    color: white;
+    padding: 20px;
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    font-family: 'Zen Tokyo Zoo', cursive;
+}
+.container>p{
+    font-size: 30px;
+    font-weight: 700;
+    font-family: 'Arapey', serif;
+}
+span{
+    margin-left: 20px;
+    font-weight: 500;
+    color: rgb(122, 36, 9);
+}
+i{
+    margin-right: 10px;
+    color:rgb(131, 35, 6);
+}
